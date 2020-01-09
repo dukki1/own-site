@@ -4,7 +4,7 @@ html {
 }
 
 body {
-  background: #403939;
+  background: #ffff;
   font-size: 14px;
   font-weight: 400;
   font-family: "Source Sans Pro", sans-serif;
@@ -64,7 +64,7 @@ ul li, ol li {
 .hero-heading {
   font-size: 48px;
   font-weight: 700;
-  color: #403939;
+  color: #fff;
   text-transform: capitalize;
   line-height: 70px;
   letter-spacing: 0.1rem;
