@@ -65,7 +65,7 @@ ul li, ol li {
   font-size: 48px;
   font-weight: 700;
   color: #fff;
-  text-transform: capitalize;
+  text-transform: none;
   line-height: 70px;
   letter-spacing: 0.1rem;
 }
@@ -1055,13 +1055,13 @@ a:not([href]):not([tabindex]):focus, a:not([href]):not([tabindex]):hover {
 
 /* Footer Area Start */
 .footer-area {
-  background: #1C1C20;
+  background-color: transparent
 }
 
 .footer-area .footer-text p {
   font-size: 14px;
   margin-top: 20px;
-  color: #fff;
+  color: rgb(0, 0, 0);
 }
 
 .footer-area .footer-text p a {
